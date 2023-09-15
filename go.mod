@@ -1,4 +1,4 @@
-module github.com/andrejvysny/lol23-be
+module lol23-be
 
 go 1.21.1
 

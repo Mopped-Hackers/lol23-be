@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
+	"lol23-be/endpoints"
 
-	"github.com/andrejvysny/lol23-be/endpoints"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 )
