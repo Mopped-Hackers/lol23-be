@@ -6,6 +6,6 @@ jobs:
   build_and_push:
     uses: andrejvysny/workflows/.github/workflows/docker_build_push_ghcr.yaml@main
     with:
-      tags: ghcr.io/Mopped-Hackers/lol23-be
+      tags: ghcr.io/mopped-hackers/lol23-be
     secrets:
       access_token: ${{ secrets.GITHUB_TOKEN }}
